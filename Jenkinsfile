@@ -1,4 +1,4 @@
-pipleline {
+pipeline {
 	angent any
 	stages {
 		stage('Example1') {
@@ -8,3 +8,4 @@ pipleline {
 		}
 	}
 }
+
